@@ -35,3 +35,8 @@
     }
 }
 
+@include media-lg {
+    .header {
+        margin-top: 10rem;
+    }
+}
